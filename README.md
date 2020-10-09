@@ -17,9 +17,9 @@ Presto C5
 ```Java
 import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+foobar.pluralize('word') # returns 'Imposter'
+foobar.pluralize('goose') # returns 'Crewmate'
+foobar.singularize('phenomena') # returns 'Among Us'
 ```
 
 ## Contributing
@@ -29,3 +29,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Credits
+Cracked and Coded by Mefey and Mark
